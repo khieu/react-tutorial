@@ -8,5 +8,35 @@
         "id": 1420070400000,
         "author": "Paul O’Shannessy",
         "text": "React is *great*!"
+    },
+    {
+        "id": 1454791323450,
+        "author": "Hieu",
+        "text": "i am doing react"
+    },
+    {
+        "id": 1454791423714,
+        "author": "John",
+        "text": "test again"
+    },
+    {
+        "id": 1454791465196,
+        "author": "Tim",
+        "text": "try 1 more time"
+    },
+    {
+        "id": 1454791800404,
+        "author": "Momo",
+        "text": "should work this time"
+    },
+    {
+        "id": 1454791807921,
+        "author": "Hieu",
+        "text": "Finally haha :)"
+    },
+    {
+        "id": 1454792442800,
+        "author": "Hieu",
+        "text": "Optimize it."
     }
 ]
